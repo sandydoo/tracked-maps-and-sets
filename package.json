@@ -1,6 +1,6 @@
 {
   "name": "@sandydoo/tracked-maps-and-sets",
-  "version": "0.0.0",
+  "version": "2.2.1",
   "description": "Autotracked Map, WeakMap, Set, and WeakSet",
   "keywords": [
     "ember-addon"
@@ -92,7 +92,7 @@
       }
     },
     "git": {
-      "tagName": "v${version}"
+      "tagName": "fork-v${version}"
     },
     "github": {
       "release": true
