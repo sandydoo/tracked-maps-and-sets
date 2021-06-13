@@ -1,11 +1,11 @@
 {
-  "name": "tracked-maps-and-sets",
-  "version": "2.2.1",
-  "description": "The default blueprint for ember-cli addons.",
+  "name": "@sandydoo/tracked-maps-and-sets",
+  "version": "0.0.0",
+  "description": "Autotracked Map, WeakMap, Set, and WeakSet",
   "keywords": [
     "ember-addon"
   ],
-  "repository": "https://github.com/pzuraq/tracked-maps-and-sets",
+  "repository": "https://github.com/sandydoo/tracked-maps-and-sets",
   "license": "MIT",
   "author": "Chris Hewell Garrett",
   "main": "commonjs/index.js",

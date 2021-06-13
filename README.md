@@ -1,6 +1,9 @@
 tracked-maps-and-sets
 ==============================================================================
 
+This is a fork of [@pzuraq/tracked-maps-and-sets](https://github.com/pzuraq/tracked-maps-and-sets)
+with fixes for Ember v3.27+ and backwards-compatibility down to Ember v3.16.
+
 This addon provides tracked versions of JavaScript's Maps and Sets:
 
 ```js
