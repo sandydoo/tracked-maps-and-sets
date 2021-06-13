@@ -1,6 +1,6 @@
 {
   "name": "@sandydoo/tracked-maps-and-sets",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "description": "Autotracked Map, WeakMap, Set, and WeakSet",
   "keywords": [
     "ember-addon"
