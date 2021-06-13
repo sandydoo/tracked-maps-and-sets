@@ -84,6 +84,9 @@
     "configPath": "tests/dummy/config",
     "main": "ember-addon-main.js"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "release-it": {
     "git": {
       "tagName": "fork-v${version}"
