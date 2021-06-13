@@ -1,5 +1,5 @@
 import Component from '@glimmer/component';
-import { TrackedMap } from 'tracked-maps-and-sets';
+import { TrackedMap } from '@sandydoo/tracked-maps-and-sets';
 
 import { setupRenderingTest } from 'ember-qunit';
 import { module, test } from 'qunit';

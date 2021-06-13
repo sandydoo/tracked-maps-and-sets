@@ -12,7 +12,7 @@ import {
   TrackedWeakMap,
   TrackedSet,
   TrackedWeakSet,
-} from 'tracked-maps-and-sets';
+} from '@sandydoo/tracked-maps-and-sets';
 ```
 
 These classes have the same APIs as their native equivalents, but reading from
@@ -32,7 +32,7 @@ Installation
 ------------------------------------------------------------------------------
 
 ```
-ember install tracked-maps-and-sets
+ember install @sandydoo/tracked-maps-and-sets
 ```
 
 
