@@ -1,3 +1,11 @@
+## v2.2.2 (2021-06-13)
+
+#### :bug: Bug Fix
+* [#1](https://github.com/sandydoo/tracked-maps-and-sets/pull/1) Fix Ember global deprecation ([@sandydoo](https://github.com/sandydoo))
+
+#### Committers: 1
+- Sander Melnikov ([@sandydoo](https://github.com/sandydoo))
+
 ## v2.2.1 (2021-01-13)
 
 #### :bug: Bug Fix
